@@ -1,2 +1,4 @@
 # slr
-This repository contains the summary on articles.
+This repository contains summaries on articles.
+
+
