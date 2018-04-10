@@ -1,6 +1,8 @@
 # slr
 This repository contains summaries on articles.
 
-Mao, Dong, Lim, *UNIVERSAL AGENT FOR DISENTANGLING ENVIRONMENTS AND TASKS*, ICLR, 2018 [summary](articel/artc1.md)
+Mao, Dong, Lim, *Universal Agent for Disentangling Environments and Tasks*, ICLR, 2018 [summary](articel/artc1.md) <br/>
+
+Farquhar et. al., *TreeQN and ATreeC: Differentiable Tree Planning for Deep Reinforcement Learning*, CoRR, 2017 [summary](articel/artc2.md) <br/>
 
 
