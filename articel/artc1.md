@@ -12,7 +12,7 @@ title={Universal Agent for Disentangling Environments and Tasks},<br/>
 author={Jiayuan Mao and Honghua Dong and Joseph J. Lim},<br/>
 booktitle={International Conference on Learning Representations},<br/>
 year={2018},<br/>
-url={https://openreview.net/forum?id=B1mvVm-C-},<br/>
+url={https://openreview.net/forum?id=B1mvVm-C- },<br/>
 }
 
 ### Abstract:
