@@ -5,4 +5,4 @@ Mao, Dong, Lim, *Universal Agent for Disentangling Environments and Tasks*, ICLR
 
 Farquhar et. al., *TreeQN and ATreeC: Differentiable Tree Planning for Deep Reinforcement Learning*, CoRR, 2017 [summary](articel/artc2.md) <br/>
 
-
+J. Oh et. al., *Value Prediction Network*, CoRR, 2017 [summary](articel/artc3.md)
