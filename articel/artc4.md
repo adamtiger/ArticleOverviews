@@ -2,7 +2,7 @@
 
 **Title:** POLICY DISTRIBUTION <br/>
 **Authors:** Rusu et. al. <br/>
-**Year:** 2017
+**Year:** 2016
 
 ### Citation:
 
