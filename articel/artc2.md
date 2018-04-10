@@ -6,9 +6,9 @@
 
 ### Citation:
 
-@article{DBLP:journals/corr/abs-1710-11417,
+@article{DBLP:journals/corr/abs-1710-11417, <br/>
   author    = {Gregory Farquhar and
-               Tim Rockt{\"{a}}schel and
+               Tim Rocktaschel and
                Maximilian Igl and
                Shimon Whiteson}, <br/>
   title     = {TreeQN and ATreeC: Differentiable Tree Planning for Deep Reinforcement Learning}, <br/>
