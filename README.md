@@ -7,4 +7,4 @@ Farquhar et. al., *TreeQN and ATreeC: Differentiable Tree Planning for Deep Rein
 
 J. Oh et. al., *Value Prediction Network*, CoRR, 2017 [summary](articel/artc3.md) <br/>
 
-Rusu et.al., *Policy Distillation*, CoRR, 2016 [summary](articel/artc4.md) <br/>
+Rusu et.al., *Policy Distillation*, CoRR, 2015 [summary](articel/artc4.md) <br/>
