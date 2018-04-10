@@ -6,7 +6,7 @@
 
 ### Citation:
 
-@article{DBLP:journals/corr/OhSL17,
+@article{DBLP:journals/corr/OhSL17, <br/>
   author    = {Junhyuk Oh and Satinder Singh and Honglak Lee}, <br/>
   title     = {Value Prediction Network}, <br/>
   journal   = {CoRR}, <br/>
