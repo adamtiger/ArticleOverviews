@@ -2,24 +2,22 @@
 
 **Title:** ACTOR-MIMIC DEEP MULTITASK AND TRANSFER REINFORCEMENT LEARNING <br/>
 **Authors:** Emilio Parisotto, Jimmy Ba, Ruslan Salakhutdinov <br/>
-**Year:** 2016
+**Year:** 2015
 
 ### Citation:
 
-@article{parisotto2016actormimic,
-  author    = {Emilio Parisotto and
-               Lei Jimmy Ba and
-               Ruslan Salakhutdinov},
-  title     = {Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning},
-  journal   = {CoRR},
-  volume    = {abs/1511.06342},
-  year      = {2015},
-  url       = {http://arxiv.org/abs/1511.06342},
-  archivePrefix = {arXiv},
-  eprint    = {1511.06342},
-  timestamp = {Wed, 07 Jun 2017 14:42:51 +0200},
-  biburl    = {https://dblp.org/rec/bib/journals/corr/ParisottoBS15},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@article{parisotto2016actormimic, <br/>
+  author    = {Emilio Parisotto and Lei Jimmy Ba and Ruslan Salakhutdinov}, <br/>
+  title     = {Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning}, <br/>
+  journal   = {CoRR}, <br/>
+  volume    = {abs/1511.06342}, <br/>
+  year      = {2015}, <br/>
+  url       = {http://arxiv.org/abs/1511.06342}, <br/>
+  archivePrefix = {arXiv}, <br/>
+  eprint    = {1511.06342}, <br/>
+  timestamp = {Wed, 07 Jun 2017 14:42:51 +0200}, <br/>
+  biburl    = {https://dblp.org/rec/bib/journals/corr/ParisottoBS15}, <br/>
+  bibsource = {dblp computer science bibliography, https://dblp.org} <br/>
 }
 
 ### Abstract:
