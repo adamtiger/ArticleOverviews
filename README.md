@@ -10,3 +10,5 @@ J. Oh et. al., *Value Prediction Network*, CoRR, 2017 [summary](articel/artc3.md
 Rusu et.al., *Policy Distillation*, CoRR, 2015 [summary](articel/artc4.md) <br/>
 
 Sutton et. al., *Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming*, Proceedings of the Seventh Int Conf on Machine Learning, 1990 [summary](articel/artc5.md) <br/>
+
+Emilio Parisotto, Jimmy Ba, Ruslan Salakhutdinov, *Actor-Mimic Deep Multitask and Transfer Reinforcement Learning*, ICLR, 2016 [summary](articel/artc6.md) <br/> 
