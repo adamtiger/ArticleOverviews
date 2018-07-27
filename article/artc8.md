@@ -41,9 +41,19 @@ Here a structured but concise overview on the article is provided.
 
 ### Technical background
 
+The paper deals with finding a method to consistently compare deep reinforcement learning algorithms. 
+This is a difficult task due to the high variance in the performance accross different evaluations. 
+Most of the deep reinforcement learning algorithms are sensitive to even the random seeds.
+Random generators are used for initializing the networks, to drive the stochasticity of the environment end others.
+The main focus is on how to choose the number of seeds for evaluation.
+Each seed is used for an evaluation then the final result is derived from averaging the unique performances.
+The authors uses two techniques to address this problem. 
+They investigates the Welch's t-test and the boostrap method to determine confidence intervalls and statistical power.
+Otherwise the article starts with a good tutorial about difference testing.
 
 ### Results, experiments
 
 
 ### Articles referred
 
+The article refers a lot of times to the following two articles: Islam et. al., *Reproducibility of Benchmarked Deep Reinforcement Learning Tasks for Continuous Control*, (2017) and Henderson et. al., *Deep Reinforcement Learning that Matters*, (2017). 
