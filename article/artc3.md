@@ -58,7 +58,3 @@ Experiments were done on two test beds:
 2) Atari. 
 
 The proposed new architecture outperformed DQN.  
-
-### Articles referred
-
-The following article is referred throughout in this paper: **Oh et. al., VPN, (2017)**. 
