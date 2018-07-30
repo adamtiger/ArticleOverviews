@@ -53,6 +53,11 @@ Otherwise the article starts with a good tutorial about difference testing.
 
 ### Results, experiments
 
+The most interesting findings:
+
+* The boostrap test is sensitive to small sample sizes.
+* The t-test might slightly under-evaluate the type-I error for non-normal data.
+* Inaccuracies in the estimation of the empirical standard deviations s1 and s2 due to low sample size might lead to large errors in the computation of beta.
 
 ### Articles referred
 
