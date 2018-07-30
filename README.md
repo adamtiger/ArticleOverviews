@@ -16,3 +16,5 @@ This repository contains summaries on articles.
 [Frank S. He et. al., *Learning to Play in a Day: Faster Deep Reinforcement Learning by Optimality Tightening*, ICLR, 2017](article/artc7.md) <br/>
 
 [Cédric Colas et. al., *How Many Random Seeds? Statistical Power Analysis in Deep Reinforcement Learning Experiments*, ArXiv e-prints, 2018](article/artc8.md) <br/>
+
+[Islam et. al., *Reproducibility of Benchmarked Deep Reinforcement Learning Tasks for Continuous Control*, CoRR, 2017](article/artc9.md)
