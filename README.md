@@ -18,3 +18,5 @@ This repository contains summaries on articles.
 [Cédric Colas et. al., *How Many Random Seeds? Statistical Power Analysis in Deep Reinforcement Learning Experiments*, ArXiv e-prints, 2018](article/artc8.md) <br/>
 
 [Islam et. al., *Reproducibility of Benchmarked Deep Reinforcement Learning Tasks for Continuous Control*, CoRR, 2017](article/artc9.md)
+
+[Duan et al., *Benchmarking Deep Reinforcement Learning for Continuous Control*, CoRR, 2016](article/artc10.md)
